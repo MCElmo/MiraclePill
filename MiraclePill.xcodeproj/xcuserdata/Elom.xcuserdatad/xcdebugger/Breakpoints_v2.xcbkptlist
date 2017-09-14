@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiraclePill/AppDelegate.swift"
+            timestampString = "527040076.674582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.AppDelegate.__deallocating_deinit"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elom/Desktop/APP/Udemy-course/MiraclePill/MiraclePill/AppDelegate.swift"
+                  timestampString = "527040076.797357"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.AppDelegate.init () -&gt; MiraclePill.AppDelegate"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elom/Desktop/APP/Udemy-course/MiraclePill/MiraclePill/AppDelegate.swift"
+                  timestampString = "527040076.805667"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePill.AppDelegate.__allocating_init () -&gt; MiraclePill.AppDelegate"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elom/Desktop/APP/Udemy-course/MiraclePill/MiraclePill/AppDelegate.swift"
+                  timestampString = "527040076.811561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "MiraclePill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Elom/Desktop/APP/Udemy-course/MiraclePill/MiraclePill/AppDelegate.swift"
+                  timestampString = "527040076.815214"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
